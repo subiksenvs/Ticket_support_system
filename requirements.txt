@@ -1,0 +1,8 @@
+# Backend + Frontend dependencies
+flask
+flask-cors
+transformers
+torch            
+streamlit
+pandas
+requests
