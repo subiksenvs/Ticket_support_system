@@ -1,0 +1,6 @@
+ticket_text,similarity_score,status,ticket_id,created_at
+“How can I integrate your API with a third-party CRM system like HubSpot?”,0.207569807767868,Solved,1762983180.0,2025-11-13T03:03:00.897570Z
+"“After the recent update, the dark mode setting doesn’t save after closing the app.”",0.2211460918188095,Pending,1762983843.0,2025-11-13T03:14:03.085347Z
+"Every time I open the app, it crashes immediately. I’m using Android 13 on a Samsung Galaxy S21.",0.1928546130657196,Solved,1762985493.0,2025-11-13T03:41:33.899745Z
+I entered my password wrong a few times and now it says my account is locked. How can I unlock it?,0.2100099772214889,Pending,1762990595.0,2025-11-13T05:06:35.550694Z
+"I love your app, but it’s too bright at night. Can you please add a dark mode feature?",0.2046771943569183,Solved,1762992367.0,2025-11-13T05:36:07.790397Z
